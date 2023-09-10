@@ -1,6 +1,6 @@
 # 💫 About Me:
-Front-end developer student<br>Chemistry teacher
-
+Hello there!
+I'm a chemistry teacher studying to become a web developer in the future.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunomacedo1/) 
