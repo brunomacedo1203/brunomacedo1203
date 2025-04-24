@@ -14,23 +14,6 @@ Currently, I’m focused on building **scalable applications** that make a real 
 🎯 **My goal?**  
 To craft intuitive, high-performance solutions that solve real-world problems — whether it’s designing responsive UIs or building secure and efficient APIs, I’m always up for the challenge!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-macedo-8b4a62294/">
-    <img 
-      alt="LinkedIn" 
-      title="Connect with me on LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
-    />
-  </a>
-  <a href="https://www.youtube.com/@brunomacedodev">
-    <img 
-      alt="YouTube" 
-      title="Visit my YouTube channel" 
-      src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge&labelColor=FF0000" 
-    />
-  </a>
-</p>
-
 ### 👨‍💻 Languages and Technologies
 
 <div align="center">
@@ -75,10 +58,27 @@ To craft intuitive, high-performance solutions that solve real-world problems �
 - **[Game Loan Management](https://github.com/brunomacedo1203/Game-Loan-Management)** – Full-stack game lending manager using .NET Core, Entity Framework, Oracle, Angular, and Bootstrap.
 
 ### 📫 Let's Connect!
+If you're interested in collaborating on innovative projects or just want to talk about code, feel free to connect- I'm always happy to exchange ideas and learn together!
 
-If you're interested in collaborating on innovative projects or just want to talk about code, feel free to connect-I'm always happy to exchange ideas and learn together!
+<p align="center">  
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-macedo-8b4a62294/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Connect with me on LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@brunomacedodev" target="_blank">
+    <img 
+      alt="YouTube" 
+      title="Visit my YouTube channel" 
+      src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge&labelColor=FF0000" 
+    />
+  </a>
+</p>
 
-👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/bruno-macedo-8b4a62294/)
-👉 [Follow me on YouTube](https://www.youtube.com/@brunomacedodev)
 
