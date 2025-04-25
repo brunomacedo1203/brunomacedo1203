@@ -39,8 +39,8 @@ To craft intuitive, high-performance solutions that solve real-world problems â€
 ### ðŸ“Š GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=brunomacedo1203&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomacedo1203&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=brunomacedo1203&show_icons=true&theme=tokyonight" alt="Bruno Macedo's GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomacedo1203&layout=compact&langs_count=9&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br clear="all"/>
