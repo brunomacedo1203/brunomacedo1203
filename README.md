@@ -45,12 +45,6 @@ To craft intuitive, high-performance solutions that solve real-world problems �
 
 <br clear="all"/>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunomacedo1203&theme=tokyo-night&hide_border=true&custom_title=Contributions%20Over%20Time&area=true&line=628FDA&point=FFFFFF&area_color=64FFDA&radius=8" width="100%"/>
-</div>
-
 ### 🌟 Featured Projects
 
 - **[MolWise](https://github.com/brunomacedo1203/Mol-Wise)** – A modern Chemistry web app featuring tools like Molar Mass Calculator and interactive Periodic Table. Built with Next.js, TypeScript, and Tailwind CSS.
