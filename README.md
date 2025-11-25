@@ -47,8 +47,8 @@ To craft intuitive, high-performance solutions that solve real-world problems �
 
 ### 🌟 Featured Projects
 
-- **[MolWise](https://github.com/brunomacedo1203/Mol-Wise)** – A modern Chemistry web app featuring tools like Molar Mass Calculator and interactive Periodic Table. Built with Next.js, TypeScript, and Tailwind CSS.
-- **[TaskCollab](https://github.com/brunomacedo1203/fullstack-challenge)** — Plataforma colaborativa de tarefas com comentários e notificações em tempo real. Arquitetura de microserviços (NestJS) orquestrada por API Gateway com JWT, eventos via RabbitMQ e WebSocket. Monorepo (Turborepo/pnpm), PostgreSQL + TypeORM, frontend em React + TanStack Router + Tailwind + shadcn/ui, e Swagger no Gateway.
+- **[MolWise](https://www.molclass.com)** – A modern Chemistry web app featuring tools like Molar Mass Calculator and interactive Periodic Table. Built with Next.js, TypeScript, and Tailwind CSS.
+- **[TaskCollab](https://github.com/brunomacedo1203/taskcollab)** — Plataforma colaborativa de tarefas com comentários e notificações em tempo real. Microserviços NestJS orquestrados por API Gateway (JWT), eventos via RabbitMQ, WebSocket, monorepo (Turborepo/pnpm), PostgreSQL + TypeORM, frontend React + TanStack Router + Tailwind + shadcn/ui, e Swagger no Gateway.
 - **[Payroll Loan Management System](https://github.com/brunomacedo1203/Payroll-Loan-Management-System)** – A comprehensive system for managing payroll loans. Built with .NET Core (WebAPI), AngularJS, and Oracle.
 - **[Game Loan Management](https://github.com/brunomacedo1203/Game-Loan-Management)** – Full-stack game lending manager using .NET Core, Entity Framework, Oracle, Angular, and Bootstrap.
 
